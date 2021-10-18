@@ -1,0 +1,12 @@
+---
+:id: 26153284
+:submitters:
+- :name: Gabriel Yap
+  :email: glyap@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-12-07 00:07:55.222827000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-12-06 16:07:55.222827000 Z
+:status: processed
+:score: 35.0
